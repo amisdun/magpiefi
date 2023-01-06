@@ -45,6 +45,12 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
+```
+  create a .env file.
+  copy content from .development.envfile and paste it into .env file.
+  restart your server
+```
+
 ## Test
 
 ```bash
